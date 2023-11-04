@@ -1,5 +1,7 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif)
-<p align="right"> Banner art by: <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a> </p>
+![MasterHead](https://cdn.mos.cms.futurecdn.net/nYUEcZqaZiCSFDPEHQCkFg-650-80.gif)
+
+<!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/1599d7107019725.5f9d3c7bae636.gif)
+<p align="right"> Banner art by: <a href="https://www.behance.net/pixeljeff">Pixel Jeff</a> </p> -->
 
 <h1 align="center">✨ Hi, I'm Bárbara ✨</h1>
 
