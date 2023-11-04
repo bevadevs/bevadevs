@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" src="https://media.tenor.com/GW9TZ7J1UNMAAAAC/new-game-ahagon-umiko-programming.gif">
 
-- 🌱 I’m currently studying a **Master's Degree in Game Development and VR with Unity and Unreal Engine**
+- 🌱 I’m currently studying a **Master's Degree in Game and VR Programming with Unity and Unreal Engine**
 
 - 👾 I’m working on [a small Visual Novel in Godot](https://bevadevs.itch.io/the-impression-that-its-fake)
 
