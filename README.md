@@ -3,9 +3,9 @@
 
 <h1 align="center">✨ Hi, I'm Bárbara ✨</h1>
 
-<img align="right" alt="Coding" src="https://media.tenor.com/GW9TZ7J1UNMAAAAC/new-game-ahagon-umiko-programming.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bevadevs&label=Profile%20views&color=0e75b6&style=flat" alt="bevadevs" /> </p>
+
+<img align="right" alt="Coding" src="https://media.tenor.com/GW9TZ7J1UNMAAAAC/new-game-ahagon-umiko-programming.gif">
 
 - 🌱 I’m currently studying a **Master's Degree in Game Development and VR with Unity and Unreal Engine**
 
@@ -24,16 +24,18 @@
 </p>
 
 <h3 align="left">Engines:</h3>
-<p align="left"> 
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
-  <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a><a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a><a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a>
 </p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bevadevs&show_icons=true&locale=en" alt="bevadevs" /></p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyternotebook" width="40" height="40"/> </a>
+  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="scrum" width="40" height="40"/> </a>
+  <a href="https://www.maxon.net/es/zbrush" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="zbrush" width="40" height="40"/> </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/800px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>  
 </p>
 
@@ -42,4 +44,3 @@
 <a href="https://linkedin.com/in/delvallemoncalianbarbara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="delvallemoncalianbarbara" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevadevs&show_icons=true&locale=en" alt="bevadevs" /></p>
