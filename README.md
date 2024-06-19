@@ -18,7 +18,7 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://docs.unrealengine.com/5.3/en-US/blueprints-visual-scripting-in-unreal-engine/" target="_blank" rel="noreferrer"> <img src="https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2Fblueprint-for-enterprise%2FBlueprint-for-Enterprise-1000x1000-13caa11b8e5c5e91506a8dd63b39d247318c3208.png?resize=1&w=300" alt="blueprints" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> --> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevadevs&" alt="bevadevs" /></p> -->
@@ -39,6 +39,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!-- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
   
   <a href="https://www.maxon.net/es/zbrush" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="zbrush" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
