@@ -18,7 +18,9 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://docs.unrealengine.com/5.3/en-US/blueprints-visual-scripting-in-unreal-engine/" target="_blank" rel="noreferrer"> <img src="https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2Fblueprint-for-enterprise%2FBlueprint-for-Enterprise-1000x1000-13caa11b8e5c5e91506a8dd63b39d247318c3208.png?resize=1&w=300" alt="blueprints" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://docs.godotengine.org/es/4.x/tutorials/scripting/gdscript/index.html" target="_blank" rel="noreferrer"> <img src="https://img.godotassetlibrary.com/cSqVigh4hupD19GmujWArkhbMkUMZ9dsUvNbOMkrdRQ/rs:fit:1920:1080:0/g:no/aHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS90b3VpbGxlTWFuL2dvZG90LXB5dGhvbi9tYXN0ZXIvbWlzYy9nb2RvdF9weXRob24ucG5n.webp" alt="gdscript" width="40" height="40"/> </a>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
+  <!--<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>-->
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevadevs&" alt="bevadevs" /></p> -->
@@ -38,18 +40,20 @@
   <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"> <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="scrum" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <!-- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
-   <a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png" alt="vuforia" width="40" height="40"/> </a>
+  <a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png" alt="vuforia" width="40" height="40"/> </a>
   
   <a href="https://www.maxon.net/es/zbrush" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="zbrush" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
   <!-- <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/640px-Logo_Aseprite.svg.png" alt="aseprite" width="40" height="40"/> </a>  -->
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://love2d.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/283107?s=200&v=4" alt="love2d" width="40" height="40"/> </a>
+
+  <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyternotebook" width="40" height="40"/> </a>
-  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> -->
 </p>
