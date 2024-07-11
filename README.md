@@ -18,21 +18,23 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
   <a href="https://docs.unrealengine.com/5.3/en-US/blueprints-visual-scripting-in-unreal-engine/" target="_blank" rel="noreferrer"> <img src="https://cdn2.unrealengine.com/Unreal+Engine%2Fonlinelearning-courses%2Fblueprint-for-enterprise%2FBlueprint-for-Enterprise-1000x1000-13caa11b8e5c5e91506a8dd63b39d247318c3208.png?resize=1&w=300" alt="blueprints" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://docs.godotengine.org/es/4.x/tutorials/scripting/gdscript/index.html" target="_blank" rel="noreferrer"> <img src="https://img.godotassetlibrary.com/cSqVigh4hupD19GmujWArkhbMkUMZ9dsUvNbOMkrdRQ/rs:fit:1920:1080:0/g:no/aHR0cHM6Ly9jZG4ucmF3Z2l0LmNvbS90b3VpbGxlTWFuL2dvZG90LXB5dGhvbi9tYXN0ZXIvbWlzYy9nb2RvdF9weXRob24ucG5n.webp" alt="gdscript" width="40" height="40"/> </a>
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="gdscript" width="40" height="40"/> </a>
   <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1024px-Lua-Logo.svg.png" alt="lua" width="40" height="40"/> </a>
   <!--<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>-->
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevadevs&" alt="bevadevs" /></p> -->
 
-<h3 align="left">Engines:</h3>
+<h3 align="left">Engines and Frameworks:</h3>
 <p align="left"> 
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/1200px-Godot_icon.svg.png" alt="godot" width="40" height="40"/> </a>
+  <a href="https://love2d.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/283107?s=200&v=4" alt="love2d" width="40" height="40"/> </a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bevadevs&show_icons=true&locale=en" alt="bevadevs" /></p>
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bevadevs&show_icons=true&locale=en" alt="bevadevs" /></p> -->
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevadevs&show_icons=true&locale=en&layout=compact" alt="bevadevs" /></p>
 
 <h3 align="left">Tools:</h3>
 <p align="left"> 
@@ -48,8 +50,6 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> 
   <!-- <a href="https://www.aseprite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/640px-Logo_Aseprite.svg.png" alt="aseprite" width="40" height="40"/> </a>  -->
-
-  <a href="https://love2d.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/283107?s=200&v=4" alt="love2d" width="40" height="40"/> </a>
 
   <!-- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" alt="jupyternotebook" width="40" height="40"/> </a>
@@ -67,8 +67,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 </p>  -->
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevadevs&show_icons=true&locale=en&layout=compact" alt="bevadevs" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
