@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently studying a **Master's Degree in  Video Game and VR Programming with Unity and Unreal Engine**
 
-<!-- - 👾 I took a CalArts x Coursera [Specialization in Game Design](https://coursera.org/share/6023519e847bec729ccab1e35c28cae7)  -->
+<!-- - 👩🏻‍💻 I took [Harvard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)  -->
 
-- 👩🏻‍💻 I write devlogs and publish little games at [https://bevadevs.itch.io/](https://bevadevs.itch.io/)
+- 👾 I write devlogs and publish little games at [https://bevadevs.itch.io/](https://bevadevs.itch.io/)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -45,6 +45,7 @@
   <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vc5df62aff689c916c31b2ac1e49a7e8c5ecada1bb13dcdd68aaefb1e1e9b9ec0/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/> </a>
   <a href="https://developer.vuforia.com/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/business7/uploads/vuforia/original/1X/1bd39d7b17a9c4e9732ca6675abe1036462a368a.png" alt="vuforia" width="40" height="40"/> </a>
+  <a href="https://www.photonengine.com/" target="_blank" rel="noreferrer"> <img src="https://www.photonengine.com/v2/img/common/nav-logo-photon.svg" alt="vuforia" width="120" height="40"/> </a>
   
   <a href="https://www.maxon.net/es/zbrush" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/512/PNG/512/zbrush_icon-icons.com_50712.png" alt="zbrush" width="40" height="40"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
